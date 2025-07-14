@@ -1,5 +1,3 @@
-# Task-tracker
-
 # Task Tracker 📝
 
 A simple, minimalistic task tracker built with HTML, CSS, and vanilla JavaScript.
