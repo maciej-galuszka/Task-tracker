@@ -5,7 +5,6 @@ const stats = document.querySelector(".stats");
 const statsAll = document.querySelector(".stats-all");
 const statsDone = document.querySelector(".stats-done");
 
-console.log(form);
 let tasksFinishedCounter = 0;
 let tasksCounter = 0;
 
