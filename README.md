@@ -26,7 +26,7 @@ This project allows you to create tasks, mark them as completed, and delete them
 
 ---
 
-## 💡 Future Improvements
+## 💡 Possible Improvements
 
 - Store tasks using `localStorage`
 - Add task filters (all / completed / active)
